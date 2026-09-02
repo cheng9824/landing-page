@@ -126,3 +126,10 @@ body {
     padding: 5px 25px;
     color: #F9FAF8;
 }
+
+.footer {
+    background-color: #1F2937;
+    padding: 15px 50px;
+    color: #E5E7EB;
+    text-align: center;
+}
