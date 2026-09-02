@@ -101,3 +101,28 @@ body {
 .text {
     font-weight: bold;
 }
+
+.call {
+    padding: 50px 60px;
+}
+
+.box {
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding: 50px 60px;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box .title {
+    font-weight: bold;
+}
+
+.box button {
+    background-color: #3882F6;
+    border-radius: 5px;
+    border-color: #E5E7EB;
+    padding: 5px 25px;
+    color: #F9FAF8;
+}
